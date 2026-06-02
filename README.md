@@ -1,4 +1,10 @@
-# Real-World Aviation Violence Dataset (300 Verified Reviews) & Classification Code
+# Geospatially Informed Hybrid Deep Learning Framework for Airline Sentiment Classification and Violence Detection
 
-This repository contains the curated subset of 300 manually verified real-world Skytrax airline reviews exhibiting aggressive, abusive, or safety-critical narratives, along with the source code for the experimental framework. This focused dataset addresses minority-class imbalance in aviation security NLP without relying solely on synthetic data generation. For full architectural details (Parallel CNN-BiGRU Attention and Fine-tuned DistilBERT) and geospatial mapping.
-## Citation
+This repository contains the source code and a benchmark dataset sample associated with our manuscript submitted to **IEEE Access**.
+
+## Data Availability & Review Notes
+To protect data integrity during the peer-review process, this repository provides a representative evaluation sample of the dataset, which includes:
+* **50 Real Passenger Reviews** (manually validated)
+* **100 AI-Generated/Augmented Reviews** (used for robust balancing and expansion)
+
+The complete, full-scale dataset and fully trained models will be made completely public immediately upon the official acceptance and publication of the manuscript.
