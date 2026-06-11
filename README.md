@@ -1,6 +1,6 @@
 # Geospatially Informed Hybrid Deep Learning Framework for Airline Sentiment Classification and Violence Detection
 
-This repository contains the source code and a benchmark dataset sample associated with our manuscript submitted to **IEEE Access**.
+This repository contains the source code and a benchmark dataset sample associated with our manuscript.
 
 ## Data Availability & Review Notes
 To protect data integrity during the peer-review process, this repository provides a representative evaluation sample of the dataset, which includes:
