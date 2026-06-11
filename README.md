@@ -1,4 +1,4 @@
-# Geospatially Informed Hybrid Deep Learning Framework for Airline Sentiment Classification and Violence Detection
+# Towards Aviation Safety Intelligence: A GeoAI-Enhanced NLP Framework for Violence Detection in Passenger Reviews
 
 This repository contains the source code and a benchmark dataset sample associated with our manuscript.
 
